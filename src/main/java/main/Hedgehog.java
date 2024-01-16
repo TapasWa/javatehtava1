@@ -13,7 +13,7 @@ public class Hedgehog {
         this.age = age;
     }
     public void speak(String teksti){
-        System.out.println(name+":"+teksti);
+        System.out.println(name+": "+teksti);
 
     }
     public void juoksee(int kierrosta){
